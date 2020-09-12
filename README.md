@@ -1,2 +1,2 @@
 # Python-Spider
-Python Spider learning
+Python Spider learning for personal use.
